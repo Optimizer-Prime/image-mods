@@ -8,7 +8,8 @@ Run the program in a terminal as you would any python file.
 
 Images are saved to same folder as program with the format 'original_filename_filter.png'.
 Large images may take some time to process.  
-To see what images may look like, go to the 'previews' folder.
+To see what images may look like, go to the 'previews' folder.  
+cImage.py is a library not written by me, it is included for usability.
 
 ### Possible flags are as follows:
 
