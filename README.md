@@ -4,7 +4,7 @@ Simple program to perform various modifications to images. This was done for pra
 ## Usage
 Run the program in a terminal as you would any python file.
   
-> username@username:~$ python main.py -flag  
+> username@desktop:~$ python main.py -flag  
 
 Images are saved to same folder as program with the format 'original_filename_filter.png'.
 Large images may take some time to process.  
